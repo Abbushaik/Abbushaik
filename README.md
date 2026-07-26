@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbushaik&label=Profile%20views&color=0e75b6&style=flat" alt="abbushaik" /> </p>
 
-- 💬 Ask me about **Front-end,Back-end Develeopment,Mern Stack,Data Science,Deveops,AI-ML**
+- 💬 Ask me about **Front-end,Back-end Develeopment,Mern Stack,Data Science,DevOps,AI-ML**
 
 - ⚡ Fun fact **I am Introvert 😒**
 
