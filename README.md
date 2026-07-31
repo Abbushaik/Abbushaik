@@ -5,120 +5,67 @@ Backend Engineer | Java • Spring Boot • Microservices • Cloud • AI Engin
 </h3>
 
 <p align="center">
-Building scalable backend systems today.<br>
-Exploring Cloud & AI Engineering for tomorrow.
+Building scalable backend systems and modern AI-powered applications.
 </p>
 
 <p align="center">
-<a href="https://komarev.com/ghpvc/?username=abbushaik">
 <img src="https://komarev.com/ghpvc/?username=abbushaik&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 💼 Backend Engineer passionate about building scalable and production-ready software.
-- 🚀 Specialized in **Java, Spring Boot, REST APIs & Microservices**.
-- ☁️ Interested in **Cloud Computing, Distributed Systems & AI Engineering**.
-- 🌱 Continuously improving through real-world projects and hands-on learning.
-- 💬 Ask me about **Java, Spring Boot, REST APIs, Microservices, SQL, Docker, Kubernetes, System Design and AI Engineering.**
-- ⚡ **One step at a time.**
+Backend Engineer passionate about building scalable, reliable, and production-ready software.
+
+I primarily work with **Java, Spring Boot, REST APIs, and Microservices**, while actively exploring **Cloud Computing, Distributed Systems, and AI Engineering**.
+
+I enjoy designing clean architectures, solving backend challenges, and continuously learning modern technologies.
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Scalable Backend Development
-- Microservice Architecture
+- REST APIs & Microservices
 - Cloud Native Applications
 - Docker & Kubernetes
 - AWS Cloud
-- System Design
 - Distributed Systems
+- System Design
 - AI Engineering
 - AI Orchestration
 - Retrieval-Augmented Generation (RAG)
-- AI Agents & Agentic Workflows
+- AI Agents
 - Vector Databases
 - MCP (Model Context Protocol)
 - LLM Applications
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,html,css" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,maven,postman,linux,idea,vscode" />
-</p>
-
----
-
-## 🚀 Interested In
-
-- Backend Engineering
-- Distributed Systems
-- Cloud Computing
-- AI Infrastructure
-- AI Agents
-- Event-Driven Architecture
-- High Performance APIs
-- Developer Productivity
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/mohammad-abubackar-974355225/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://mdabubackar.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:abbushaik393@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,javascript,react,mysql,postgres,mongodb,docker,kubernetes,aws,git,github,maven,linux,idea,vscode&perline=9"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammad-abubackar-974355225/">LinkedIn</a>
+&nbsp;•&nbsp;
+<a href="https://mdabubackar.netlify.app/">Portfolio</a>
+&nbsp;•&nbsp;
+<a href="mailto:abbushaik393@gmail.com">Email</a>
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
 
@@ -130,10 +77,10 @@ Exploring Cloud & AI Engineering for tomorrow.
 
 ---
 
-<h3 align="center">
+<p align="center">
 ⭐ Thanks for visiting my profile!
-</h3>
+</p>
 
 <p align="center">
-Feel free to explore my repositories, check out my portfolio, or connect with me on LinkedIn.
+Feel free to explore my repositories or connect with me.
 </p>
